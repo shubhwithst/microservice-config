@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Prod Coniguration 
+    name: Prod Coniguration For USER
 eureka:
   instance:
     prefer-ip-address: true
