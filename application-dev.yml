@@ -1,8 +1,8 @@
 
 spring:
   application:
-    name: Dev Configuration
-eureka:
+    name: Dev Configuration USER
+eureka: 
   instance:
     prefer-ip-address: true
   client:
